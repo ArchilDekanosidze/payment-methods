@@ -1,0 +1,17 @@
+PayPal:
+------------------------
+Dev Account: dev@bd.com
+Per Account: per@bd.com [John Doe]
+Biz Account: biz@bd.com [Morshedul Arefin]
+Client ID: ATCMI4_1b1RqMVzdmNOuLhmkt_qAPt2CcKCNBWG5CfkqFfT4lIhshNx5l8Uq0swfNce6g0yVDmNyNBbb
+Secret: EFxtXDt3HUJumJXFQfd5E8KC5q9oPYRW5oycouIqvy0GwjxBHAik1B2Cck_0sAoP1wQBgQiNlSDLNZ1Z
+
+Stripe:
+------------------------
+Email: dowiv77315@tohup.com
+
+Publishable key:
+pk_test_51MOQ1mJjy5jJfL8R7pLEhLT78iqaEbVHhjtLeIPhjW6ylDQEzEugKd70ZjYDMuCbre6gYd7A4wVNBl3gn2MVZL7100u4SvhGZ7
+
+Secret key:
+sk_test_51MOQ1mJjy5jJfL8RwDbt6Njqu2J5KeU511zHSNAg3ThZVUAHIHJk3v7dA6mrqs6iDLwKSdPNPgnooTlDYXyeDefW00uj6pKE9N
